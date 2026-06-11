@@ -3,8 +3,7 @@
 ![MangoHaven Preview](https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&auto=format)
 
 > A beautifully crafted, fully responsive mango selling website with a dynamic shopping cart, local storage persistence, and a delightful user experience. Built with vanilla HTML, CSS, and JavaScript.
-
-🌐 **Live Demo:** [View Demo](https://your-demo-link-here.com) *(replace with your actual demo link)*
+ **Live Demo:** [View Demo](https://your-demo-link-here.com) *(replace with your actual demo link)*
 
 ---
 
