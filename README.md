@@ -209,28 +209,3 @@ You are free to use, modify, and distribute this code for personal or commercial
 **Project Link:** [https://github.com/your-username/mangohaven](https://github.com/your-username/mangohaven)
 
 Feel free to reach out for questions, collaborations, or just to share your love for mangoes!
-
----
-
-## ⭐ Show Your Support
-
-If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub — it motivates me to build more cool stuff!
-
-Made with ❤️ and lots of 🥭
-```
-
----
-
-## Instructions to Use This README
-
-1. **Create a file** named `README.md` in your project's root folder.
-2. **Copy and paste** the entire content above into that file.
-3. **Replace placeholders**:
-   - `your-demo-link-here.com` → your actual live demo URL (if deployed)
-   - `your-username` → your actual GitHub username
-   - Image placeholder URLs → actual screenshots of your website
-   - Your name, email, and other contact info
-4. **Optional:** Add real screenshots by uploading images to your repository and linking them.
-5. **Commit & push** to GitHub.
-
-The README is now ready to impress visitors to your repository! 🚀
