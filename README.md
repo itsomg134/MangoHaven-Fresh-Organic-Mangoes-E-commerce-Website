@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** — Semantic markup, accessible structure.
 - **CSS3** — Flexbox, Grid, custom properties, responsive design.
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
@@ -65,7 +65,7 @@ Follow these instructions to get a copy of the project up and running on your lo
    - Double-click `index.html` OR
    - Use Live Server in VS Code (Right-click → "Open with Live Server")
 
-4. **Start shopping!** 🥭
+4. **Start shopping!**
 
 > No build steps, no dependencies — just pure HTML/CSS/JS.
 
