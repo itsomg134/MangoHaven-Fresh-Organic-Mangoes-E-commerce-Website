@@ -7,15 +7,15 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🛍️ **Product Catalog** — Display premium mango varieties with images, descriptions, and prices.
-- 🛒 **Interactive Shopping Cart** — Add/remove items, update quantities, and see real-time total.
-- 💾 **Persistent Cart** — Cart data saved in `localStorage` so items remain after page refresh.
-- 📱 **Fully Responsive** — Optimized for mobile, tablet, and desktop screens.
-- 🍞 **Toast Notifications** — User-friendly feedback when items are added or removed.
-- 🎨 **Modern UI** — Clean, warm color scheme with smooth hover animations.
-- ♿ **Accessible** — Semantic HTML and keyboard-friendly interactions (ESC to close cart).
+-  **Product Catalog** — Display premium mango varieties with images, descriptions, and prices.
+-  **Interactive Shopping Cart** — Add/remove items, update quantities, and see real-time total.
+-  **Persistent Cart** — Cart data saved in `localStorage` so items remain after page refresh.
+-  **Fully Responsive** — Optimized for mobile, tablet, and desktop screens.
+-  **Toast Notifications** — User-friendly feedback when items are added or removed.
+-  **Modern UI** — Clean, warm color scheme with smooth hover animations.
+-  **Accessible** — Semantic HTML and keyboard-friendly interactions (ESC to close cart).
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Homepage | Shopping Cart Sidebar |
 |----------|------------------------|
