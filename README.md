@@ -85,7 +85,7 @@ mangohaven/
 
 ---
 
-## 🧩 How It Works
+## How It Works
 
 ### Product Data
 Products are stored as a JavaScript array of objects, each containing:
@@ -106,7 +106,7 @@ Products are stored as a JavaScript array of objects, each containing:
 
 ---
 
-## 🎨 Customization
+## Customization
 
 ### Add More Products
 
