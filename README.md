@@ -1,7 +1,4 @@
-Here's a comprehensive GitHub README for your MangoHaven website project. You can save this as `README.md` in your repository root.
-
-```markdown
-# 🥭 MangoHaven — Fresh Organic Mangoes E‑commerce Website
+# MangoHaven — Fresh Organic Mangoes E‑commerce Website
 
 ![MangoHaven Preview](https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&auto=format)
 
