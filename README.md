@@ -152,7 +152,7 @@ Modify the CSS variables in the `<style>` section:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have ideas for improvements:
 
@@ -166,7 +166,7 @@ Please ensure your code follows the existing style and is well-commented where n
 
 ---
 
-## 🐛 Known Issues & Future Improvements
+## Known Issues & Future Improvements
 
 ### Current Limitations
 - Images are loaded from Unsplash URLs; may break if the URLs change.
