@@ -196,15 +196,20 @@ You are free to use, modify, and distribute this code for personal or commercial
 - **Images:** [Unsplash](https://unsplash.com/) for beautiful mango photography
 - **Icons:** [Font Awesome](https://fontawesome.com/) (Free CDN)
 - **Fonts:** [Google Fonts](https://fonts.google.com/) (Inter font)
-- **Inspiration:** Local fruit vendors and the love for sweet, juicy mangoes! 🥭
+- **Inspiration:** Local fruit vendors and the love for sweet, juicy mangoes!
 
 ---
 
-## 📬 Contact
+##  Contact
 
-**Developer:** Your Name  
-**Email:** your.email@example.com  
-**GitHub:** [@your-username](https://github.com/your-username)  
-**Project Link:** [https://github.com/your-username/mangohaven](https://github.com/your-username/mangohaven)
+Om Gedam
 
-Feel free to reach out for questions, collaborations, or just to share your love for mangoes!
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
