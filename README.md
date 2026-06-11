@@ -184,7 +184,7 @@ Please ensure your code follows the existing style and is well-commented where n
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
@@ -192,7 +192,7 @@ You are free to use, modify, and distribute this code for personal or commercial
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Images:** [Unsplash](https://unsplash.com/) for beautiful mango photography
 - **Icons:** [Font Awesome](https://fontawesome.com/) (Free CDN)
