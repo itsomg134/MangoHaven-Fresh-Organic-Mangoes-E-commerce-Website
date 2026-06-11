@@ -144,7 +144,7 @@ Modify the CSS variables in the `<style>` section:
 
 ---
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 
 - **Desktop:** > 1024px — full grid (3–4 columns)
 - **Tablet:** 768px – 1024px — 2–3 columns
